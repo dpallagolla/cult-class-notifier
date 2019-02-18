@@ -1,0 +1,4 @@
+cron:
+- description: "Job for XYZ"
+  url: /?centerCodes=45,5,20&workouts=ZUMBA,DANCE%20FITNESS,PROWL,YOGA&username=username&email=user@mail.com
+  schedule: every 10 mins
